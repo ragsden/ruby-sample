@@ -1,4 +1,5 @@
 language: ruby
+build_image: shipimg/ubuntu1404_ruby
 rvm:
   - 1.9.2
 after_success:
